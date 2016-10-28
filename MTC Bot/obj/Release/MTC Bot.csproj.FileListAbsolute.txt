@@ -1,0 +1,215 @@
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\Bot Application1.dll.config
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\Bot Application1.dll
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\Bot Application1.pdb
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\Autofac.dll
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\Chronic.dll
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\Microsoft.Bot.Builder.dll
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\Microsoft.Bot.Connector.dll
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\Newtonsoft.Json.dll
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\System.Net.Http.Formatting.dll
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\System.Web.Http.dll
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\System.Web.Http.WebHost.dll
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\Autofac.xml
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\Microsoft.Bot.Builder.xml
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\Microsoft.Bot.Connector.xml
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\Microsoft.Rest.ClientRuntime.xml
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\Newtonsoft.Json.xml
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\System.Net.Http.Formatting.xml
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\System.Web.Http.xml
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\System.Web.Http.WebHost.xml
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\obj\Release\MTC Bot.csprojResolveAssemblyReference.cache
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\obj\Release\Bot Application1.dll
+c:\users\t-gumo\documents\visual studio 2015\Projects\MTC Bot\MTC Bot\obj\Release\Bot Application1.pdb
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\Bot Application1.dll.config
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\Bot Application1.dll
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\Bot Application1.pdb
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\Autofac.dll
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\Chronic.dll
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\Microsoft.Bot.Builder.dll
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\Microsoft.Bot.Connector.dll
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\Newtonsoft.Json.dll
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\System.Net.Http.Formatting.dll
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\System.Web.Http.dll
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\System.Web.Http.WebHost.dll
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\Autofac.xml
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\Microsoft.Bot.Builder.xml
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\Microsoft.Bot.Connector.xml
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\Newtonsoft.Json.xml
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\System.Net.Http.Formatting.xml
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\System.Web.Http.xml
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\System.Web.Http.WebHost.xml
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\source\MTC-Bot\MTC Bot\MTC Bot\obj\Release\MTC Bot.csprojResolveAssemblyReference.cache
+C:\source\MTC-Bot\MTC Bot\MTC Bot\obj\Release\Bot Application1.dll
+C:\source\MTC-Bot\MTC Bot\MTC Bot\obj\Release\Bot Application1.pdb
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\Autofac.Integration.WebApi.dll
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\NLog.dll
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\Purplelight.Framework.Autofac.Integration.WebApi.dll
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\Autofac.Integration.WebApi.xml
+C:\source\MTC-Bot\MTC Bot\MTC Bot\bin\NLog.xml
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\Bot Application1.dll.config
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\Bot Application1.dll
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\Bot Application1.pdb
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\Autofac.dll
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\Autofac.Integration.WebApi.dll
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\Chronic.dll
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\Microsoft.Bot.Builder.dll
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\Microsoft.Bot.Connector.dll
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\Newtonsoft.Json.dll
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\NLog.dll
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\Purplelight.Framework.Autofac.Integration.WebApi.dll
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\System.Net.Http.Formatting.dll
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\System.Web.Http.dll
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\System.Web.Http.WebHost.dll
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\Autofac.xml
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\Autofac.Integration.WebApi.xml
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\Microsoft.Bot.Builder.xml
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\Microsoft.Bot.Connector.xml
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\Newtonsoft.Json.xml
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\NLog.xml
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\System.Net.Http.Formatting.xml
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\System.Web.Http.xml
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\System.Web.Http.WebHost.xml
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\obj\Release\MTC Bot.csprojResolveAssemblyReference.cache
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\obj\Release\Bot Application1.dll
+C:\Users\feliped\Source\Repos\MTC-Bot\MTC Bot\MTC Bot\obj\Release\Bot Application1.pdb
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\Bot Application1.dll.config
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\Bot Application1.dll
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\Bot Application1.pdb
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\Autofac.dll
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\Autofac.Integration.WebApi.dll
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\Chronic.dll
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\Microsoft.Bot.Builder.dll
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\Microsoft.Bot.Connector.dll
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\Newtonsoft.Json.dll
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\NLog.dll
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\Purplelight.Framework.Autofac.Integration.WebApi.dll
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\System.Net.Http.Formatting.dll
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\System.Web.Http.dll
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\System.Web.Http.WebHost.dll
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\Autofac.xml
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\Autofac.Integration.WebApi.xml
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\Microsoft.Bot.Builder.xml
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\Microsoft.Bot.Connector.xml
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\Newtonsoft.Json.xml
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\NLog.xml
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\System.Net.Http.Formatting.xml
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\System.Web.Http.xml
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\System.Web.Http.WebHost.xml
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\obj\Release\MTC Bot.csprojResolveAssemblyReference.cache
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\obj\Release\Bot Application1.dll
+C:\Users\luhumenh.SOUTHAMERICA\Documents\Visual Studio 2015\Projects\MTC Bot\MTC Bot\obj\Release\Bot Application1.pdb
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\Bot Application1.dll.config
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\Bot Application1.dll
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\Bot Application1.pdb
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\Autofac.dll
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\Autofac.Integration.WebApi.dll
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\Chronic.dll
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\Microsoft.Bot.Builder.dll
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\Microsoft.Bot.Connector.dll
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\Newtonsoft.Json.dll
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\NLog.dll
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\Purplelight.Framework.Autofac.Integration.WebApi.dll
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\System.Net.Http.Formatting.dll
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\System.Web.Http.dll
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\System.Web.Http.WebHost.dll
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\Autofac.xml
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\Autofac.Integration.WebApi.xml
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\Microsoft.Bot.Builder.xml
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\Microsoft.Bot.Connector.xml
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\Microsoft.Rest.ClientRuntime.xml
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\Newtonsoft.Json.xml
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\NLog.xml
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\System.Net.Http.Formatting.xml
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\System.Web.Http.xml
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\System.Web.Http.WebHost.xml
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\obj\Release\MTC Bot.csprojResolveAssemblyReference.cache
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\obj\Release\Bot Application1.dll
+D:\Meus Documentos\ChatBot\VIAGEM\MTC Bot\MTC Bot\obj\Release\Bot Application1.pdb
